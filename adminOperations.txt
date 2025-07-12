@@ -1,0 +1,14 @@
+============================
+      ADMIN OPERATIONS
+============================
+
+The following operations can be performed by the Admin:
+
+1. Press 1 to change the admin password.
+2. Press 2 to change the secret word.
+
+NOTE:
+- You must enter the correct current password to perform any operation.
+- Make sure to keep the password and secret word confidential.
+
+============================

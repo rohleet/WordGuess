@@ -1,0 +1,24 @@
+============================
+      PLAYER INSTRUCTIONS
+============================
+
+Welcome to the Word Guessing Game!
+
+OBJECTIVE:
+- Your goal is to guess the secret word set by the admin.
+
+RULES:
+1. The secret word is a single lowercase word (no spaces).
+2. You will be told if your guess is:
+   - Alphabetically too early
+   - Alphabetically too late
+   - Correct!
+3. Keep guessing until you find the correct word.
+
+TIPS:
+- Use binary search logic to guess efficiently.
+- Pay attention to the feedback given after each guess.
+
+GOOD LUCK, PLAYER!
+
+============================
