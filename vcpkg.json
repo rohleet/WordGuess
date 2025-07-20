@@ -1,0 +1,8 @@
+{
+  "name": "wordguess",
+  "version": "1.0.0",
+  "dependencies": [
+    "fmt",            // Example dependency
+    "boost-algorithm" // Add others if you're using them
+  ]
+}
